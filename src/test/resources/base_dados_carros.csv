@@ -1,0 +1,6 @@
+"Base de dados para exemplo" 
+"Esta base contem informações sobre carros"  
+Tipo,Fabricante,Modelo,Preço 
+Flex,Chevrolet,NOVO ONIX,53050
+Flex,Chevrolet,JOY,52150 
+Flex,Chevrolet,SPIN,75150 
